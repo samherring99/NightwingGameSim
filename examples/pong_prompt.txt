@@ -1,0 +1,12 @@
+Create a simple pong game for GameBoy.
+
+The game should have:
+- A paddle on the left side controlled by the player using UP and DOWN buttons
+- A ball that bounces around the screen
+- The ball should bounce off walls and the paddle
+- Simple scoring system that tracks how many times the ball hits the paddle
+- Game over when the ball passes the paddle
+
+Keep the graphics simple using the drawing functions available in GBDK.
+Use plot() and line() for rendering.
+Make sure the game loop runs smoothly with appropriate delays.

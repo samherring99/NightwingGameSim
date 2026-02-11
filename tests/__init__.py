@@ -1,0 +1,3 @@
+"""
+NightwingGameSim test suite.
+"""
